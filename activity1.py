@@ -1,0 +1,6 @@
+print("I am in coding class")
+print(4)
+print("my name is arjun \n")
+print("I am in class")
+print("my age is ",13)
+print("Welcome to coding class",2,"arjun")
